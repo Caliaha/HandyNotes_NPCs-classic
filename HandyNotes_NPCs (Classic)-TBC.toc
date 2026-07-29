@@ -1,4 +1,4 @@
-## Interface: 20505
+## Interface: 20506
 ## Title: HandyNotes_NPCs (Classic)
 ## Version: @project-version@
 ## Notes: Shows locations of various npcs
